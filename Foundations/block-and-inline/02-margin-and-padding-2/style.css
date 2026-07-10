@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(204, 204, 204);
+    font-size: 16px;
+}
+.card{
+   max-width: 650px;
+   margin: auto;
+   align-items: center;
+    background-color: white;
+    padding: 10px;
+}
+.title{
+    background-color: rgb(199, 237, 250);
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.content{
+    background-color:  rgb(199, 237, 250);
+    margin-bottom: 10px;
+    padding: 10px 5px;
+}
+
+.button-container{
+    text-align: center;
+    align-content: center;
+    background-color:  rgb(199, 237, 250);
+    padding: 10px;
+}
+button{
+    display: flex;
+    margin: auto;
+    align-content: center;
+    background-color: white;
+    border: none;
+    padding: 10px;
+}
